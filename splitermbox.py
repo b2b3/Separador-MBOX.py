@@ -40,7 +40,7 @@ def split_mbox(input_file, output_dir, max_size_mb=200):
 
 # Usar el script con un archivo de entrada y un directorio de salida
 input_file = 'mails.mbox'  # Cambia esto a la ruta de tu archivo MBOX
-output_dir = '/Users/adrianazaolalavin/Downloads/split_mbox'  # Cambia esto a la ruta donde quieres guardar los archivos divididos
+output_dir = '/Users/TUDIRECCION/Downloads/split_mbox'  # Cambia esto a la ruta donde quieres guardar los archivos divididos
 
 # Llamar a la función para dividir el archivo MBOX y guardar los archivos divididos
 split_mbox(input_file, output_dir)
