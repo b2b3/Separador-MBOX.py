@@ -1,1 +1,1 @@
-Tuve el problema de necesitar dividir una copia de un correo que pesaba muchos GB y los hostings solo me dejaban subir 256mb, vi que todos los splitters eran malos o de pago osea que programe este, lo dejo por si alguien lo necesita
+Tuve el problema de necesitar dividir una copia .mbox de un correo que pesaba muchos GB y los hostings solo me dejabn subir 256mb, vi que todos los splitters era de pago o malos osea que programe este, lo dejo por si alguien lo necesita. A necesidades, soluciones!
